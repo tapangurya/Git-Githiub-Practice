@@ -1,2 +1,2 @@
 # Git-Githiub-Practice
-Author - Tapan
+Author - Tapan Gurya
